@@ -6,7 +6,7 @@ public class AswapB {
 		
 		int a = 100;
 		int b = 200;
-
+		int temp = 0;
 	}
 
 }
